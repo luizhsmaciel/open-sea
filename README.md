@@ -23,6 +23,28 @@ The cold season has arrived and the reef is running out of food. Only an old sea
 - Interface in **English, Portuguese and French**.
 - **HTTPS** through an nginx reverse proxy.
 
+## Screenshots
+| | |
+|:-:|:-:|
+| ![Intro](docs/screenshots/intro.png) | ![Menu](docs/screenshots/menu.png) |
+| ![Languages](docs/screenshots/language-switcher.png) | ![Profile](docs/screenshots/profile.png) |
+| ![Instructions](docs/screenshots/instructions.png) | ![Options](docs/screenshots/options.png) |
+| ![Map select](docs/screenshots/map-select.png) | ![Fish select](docs/screenshots/local-mode-fish-select.png) |
+
+### Videos
+
+**Online match** (lobby, match and winner)
+
+https://github.com/user-attachments/assets/b171d534-03ba-4bc4-b3da-8aa6c627b753
+
+**Play vs bot** (setup and match)
+
+https://github.com/user-attachments/assets/4878a7d8-5012-4be3-ae39-c57284d6fc1e
+
+**Freeze power-up** (the sharks turn to ice)
+
+https://github.com/user-attachments/assets/9b658af1-fa99-4f96-9eaf-e3fdd51fafce
+
 ## Game rules
 
 **Goal:** collect the number of diamonds the map asks for and reach the turtle before the other players.
