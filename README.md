@@ -1,7 +1,7 @@
 *This project has been created as part of the 42 curriculum by duandrad, gufreire, luiz-dos and pviegas-.*
 
 # Open Sea
-
+<p align="center"><img src="docs/gameplay.gif" alt="Gameplay" width="900"></p>
 ## Description
 
 **Open Sea** is a real-time multiplayer maze game played in the browser, built for the ft_transcendence project.
