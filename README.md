@@ -2,6 +2,7 @@
 
 # Open Sea
 <p align="center"><img src="docs/gameplay.gif" alt="Gameplay" width="900"></p>
+
 ## Description
 
 **Open Sea** is a real-time multiplayer maze game played in the browser, built for the ft_transcendence project.
